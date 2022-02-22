@@ -1,2 +1,3 @@
 # GamesWCNN
-Play games with CNN
+This repo about play Trex Game with AI.
+Lets Start..
